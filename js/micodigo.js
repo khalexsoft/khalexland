@@ -46,7 +46,10 @@ function BarraNav() {
 
 function ContenidoPrincipal() {
     return (
+        <div>
         <h1>En esta app te dedicare muchos poemas ana</h1>
+        <div>Esta sera mi primer app de muestra en reactjs</div>
+        </div>
     )
 }
 
