@@ -46,7 +46,7 @@ function BarraNav() {
 
 function ContenidoPrincipal() {
     return (
-        <h1>En esta app te dedicare muchos poemas</h1>
+        <h1>En esta app te dedicare muchos poemas ana</h1>
     )
 }
 
