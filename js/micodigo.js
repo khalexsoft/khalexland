@@ -64,7 +64,6 @@ const portada= (
 ReactDOM.render(
      <span>
          <BarraNav /> 
-portada
          <ContenidoPrincipal />
      </span>,
     document.getElementById("cuerpo")
