@@ -49,7 +49,7 @@ function ContenidoPrincipal() {
     return (
         <div aling='center' className='middle'>
         <center>
-        <h1>En esta app te dedicare muchos poemas</h1>
+        <h1>En esta app te dedicare muchos poemas mi amada Ana</h1>
         <img src="../img/logokhalex.png" className='img-fluid'></img>
         </center>
         </div>
